@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pwaSampleApp/static/css/main.073c9b0a.css",
-    "main.js": "/pwaSampleApp/static/js/main.8fbd8859.js",
-    "static/js/787.ed82fba0.chunk.js": "/pwaSampleApp/static/js/787.ed82fba0.chunk.js",
-    "service-worker.js": "/pwaSampleApp/service-worker.js",
-    "static/media/logo.svg": "/pwaSampleApp/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/pwaSampleApp/index.html",
-    "main.073c9b0a.css.map": "/pwaSampleApp/static/css/main.073c9b0a.css.map",
-    "main.8fbd8859.js.map": "/pwaSampleApp/static/js/main.8fbd8859.js.map",
-    "787.ed82fba0.chunk.js.map": "/pwaSampleApp/static/js/787.ed82fba0.chunk.js.map"
+    "main.css": "https://watti0310.github.io/pwaSampleApp/static/css/main.073c9b0a.css",
+    "main.js": "https://watti0310.github.io/pwaSampleApp/static/js/main.74c4ba50.js",
+    "static/js/787.ed82fba0.chunk.js": "https://watti0310.github.io/pwaSampleApp/static/js/787.ed82fba0.chunk.js",
+    "service-worker.js": "https://watti0310.github.io/pwaSampleApp/service-worker.js",
+    "static/media/logo.svg": "https://watti0310.github.io/pwaSampleApp/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "https://watti0310.github.io/pwaSampleApp/index.html",
+    "main.073c9b0a.css.map": "https://watti0310.github.io/pwaSampleApp/static/css/main.073c9b0a.css.map",
+    "main.74c4ba50.js.map": "https://watti0310.github.io/pwaSampleApp/static/js/main.74c4ba50.js.map",
+    "787.ed82fba0.chunk.js.map": "https://watti0310.github.io/pwaSampleApp/static/js/787.ed82fba0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8fbd8859.js"
+    "static/js/main.74c4ba50.js"
   ]
 }
